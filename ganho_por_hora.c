@@ -1,5 +1,4 @@
 /* Esse programa calcula e informa por quanto você vende suas horas trabalhistas*/
-
 #include <stdio.h>
 
 int main(void) {
