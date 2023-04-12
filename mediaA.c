@@ -1,7 +1,6 @@
 /*Este programa calcula media de quatro notas e informa de houve ou não
 aporvação
 Feito por Thayssa A. em 2022*/
-
 #include <stdio.h>
 
 int main(void) {
