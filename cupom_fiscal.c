@@ -4,6 +4,7 @@ Feito por Thayssa A. em 2022*/
 #include <stdio.h>
 #include <stdlib.h>
 
+
 void iniciacao(){
   puts("Seja bem vindo ao Hipermercado Tabajara\n está com uma promoção de carnes que é imperdível.\n");
   printf("Confira: \n\n\tAté 5 Kg\n\t1.File Duplo      R$ 4,90 por Kg\n\t2.Alcatra         R$ 5,90 por Kg\n\t3.Picanha         R$ 6,90 por Kg   \n\n\tAcima de 5 Kg \n\t1.File Duplo       R$ 5,80 por Kg \n\t2.Alcatra          R$ 6,80 por Kg \n\t3.Picanha          R$ 7,80 por Kg\n\n");
