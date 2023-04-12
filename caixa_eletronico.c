@@ -3,7 +3,6 @@ valor do saque e depois informa quantas notas de cada valor serão fornecidas.
 Com valor minimo de R$10 e maximo de R$600
 
 Feito por Thayssa A. em 2022*/ 
-
 #include <stdio.h>
 
 void iniciar(){
