@@ -1,7 +1,6 @@
 /*Este programa pede numeros e calcula uma equeção do segundo grau. 
 Informa se não for e se não possuir raizes reais.
 Feito por Thayssa A. em 2022*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
